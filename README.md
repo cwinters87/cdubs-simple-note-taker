@@ -15,6 +15,9 @@ A simple web page that saves and displays notes on a server.
 💻 Helps saves notes and stores them on a server to easily bring them up anywhere you are.
 ## Demo
 
+Here is the site it is deployed at:
+https://cdubs-note-taker.herokuapp.com/
+
 ![notetaker1](./images/notetaker1.png)
 ![notetaker2](./images/notetaker2.png)
 
