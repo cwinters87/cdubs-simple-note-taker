@@ -1,18 +1,6 @@
-{
-  "notesArray": [
-    {
-      "title": "Test Title",
-      "text": "Test text"
-    },
-    {
-      "title": "This is a note title",
-      "text": "This is where I take my notes",
-      "id": "1"
-    },
-    {
-      "title": "Working Meeting Prompts",
-      "text": "Remember to discuss the app in the meeting",
-      "id": "2"
-    }
-  ]
-}
+[
+  {
+      "title":"Test Title",
+      "text":"Test text"
+  }
+]
