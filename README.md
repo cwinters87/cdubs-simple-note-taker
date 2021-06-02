@@ -8,7 +8,6 @@ A simple web page that saves and displays notes on a server.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Demo](#demo)
-- [Tests](#tests)
 - [Questions](#questions)
 ## Installation
 💾 npm i
@@ -16,15 +15,11 @@ A simple web page that saves and displays notes on a server.
 💻 Helps saves notes and stores them on a server to easily bring them up anywhere you are.
 ## Demo
 
-Click link below to see a working demo: <br>
-https://drive.google.com/file/d/1-IJ51c4_fBSEBcWIkRoUFNnayaB472cr/view?usp=sharing
-
-![team](./images/team.png)
+![notetaker1](./images/notetaker1.png)
+![notetaker2](./images/notetaker2.png)
 
 ## Contributing
 👪 Chris Winters
-## Tests
-✏️ npm run test
 ## Questions
 🙋‍♂️ Email or reach me on my GitHub <br />
 <br />
